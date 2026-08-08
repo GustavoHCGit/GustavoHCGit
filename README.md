@@ -64,7 +64,6 @@ Atualmente domino **Python, SQL, Pandas, Streamlit, Plotly e FastAPI**, e estou 
 
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
-| 📈 **[Análise Exploratória de Dados](https://github.com/GustavoHCGit/analise-exploratoria-dados)** | EDA completa de salários em Data Science (2020-2023) — 7 perguntas respondidas com gráficos e insights | Pandas, Matplotlib, Seaborn |
 | 📊 **[Dashboard de Gestão de Inventário](https://github.com/GustavoHCGit/sistema-gestao-inventario-inteligente)** | Dashboard interativo com gráficos Plotly, gestão de produtos e vendas em tempo real | Streamlit, SQLite, Plotly |
 | 🕷️ **[Web Scraper de Vagas](https://github.com/GustavoHCGit/web-scraper-vagas)** | Coleta vagas de emprego em tempo real com tratamento robusto de erros | Python, BeautifulSoup, Pandas |
 | 🔧 **[API de Gerenciamento de Tarefas](https://github.com/GustavoHCGit/api-gerenciamento-tarefas)** | API RESTful para CRUD de tarefas com autenticação e validação | FastAPI, Pydantic, SQLite |
