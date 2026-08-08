@@ -89,8 +89,8 @@ Atualmente domino **Python, SQL, Pandas, Streamlit, Plotly e FastAPI**, e estou 
 ## 📬 Contato
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-GustavoHCGit-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavohneto/)
-[![Email](https://img.shields.io/badge/Email-guxtaneto7@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guxtaneto7@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gustavohneto-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavohneto/)
+[![Gmail](https://img.shields.io/badge/Gmail-guxtaneto7@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=guxtaneto7@gmail.com)
 
 </div>
 
