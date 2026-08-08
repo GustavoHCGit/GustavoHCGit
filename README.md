@@ -8,13 +8,6 @@
 
 ---
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![E-mail](https://img.shields.io/badge/Email-guxtaneto7@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
-</div>
-
----
-
 ## 👤 Sobre Mim
 
 Sou estudante apaixonado por **Análise de Dados**, em busca da minha primeira oportunidade de estágio para aplicar e expandir meus conhecimentos em um ambiente profissional. Minha motivação é transformar dados complexos em histórias claras e acionáveis que auxiliam na tomada de decisões.
@@ -94,11 +87,9 @@ Atualmente domino **Python, SQL, Pandas, Streamlit, Plotly e FastAPI**, e estou 
 ---
 
 ## 📬 Contato
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-GustavoHCGit-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/GustavoHCGit/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-GustavoHCGit-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavohneto/)
 [![Email](https://img.shields.io/badge/Email-guxtaneto7@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guxtaneto7@gmail.com)
 
 </div>
