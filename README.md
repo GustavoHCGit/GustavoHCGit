@@ -76,9 +76,9 @@ Tenho experiência prática com **Python, SQL, Pandas, Streamlit, Plotly e FastA
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GustavoHCGit&show_icons=true&theme=radical&hide_border=true&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF&bg_color=0D1117)
+![GitHub Stats](./github-stats.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHCGit&layout=compact&theme=radical&hide_border=true&title_color=FF6B6B&text_color=FFFFFF&bg_color=0D1117)
+![Top Languages](./top-languages.svg)
 
 </div>
 
