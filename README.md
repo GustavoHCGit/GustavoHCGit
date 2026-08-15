@@ -1,42 +1,78 @@
-# Gustavo Henrique Constante Neto
+# 📊 Gustavo Henrique Constante Neto
 
-### Estudante de Análise de Dados | Buscando estágio
+### 🎯 Estudante de Análise de Dados | Buscando Estágio
 
-Transformo dados brutos em informações que ajudam a entender problemas e tomar decisões melhores.
+*Transformando dados brutos em insights que geram valor*
 
-## Sobre mim
+---
 
-Sou estudante apaixonado por Análise de Dados e estou em busca da minha primeira oportunidade de estágio. Quero aplicar o que venho estudando em um ambiente profissional, aprender com pessoas mais experientes e participar de projetos que tenham impacto real.
+## 👤 Sobre Mim
 
-Gosto de trabalhar com dados porque existe um desafio diferente em cada etapa: entender a pergunta, organizar as informações, encontrar padrões e explicar o resultado de um jeito que faça sentido para quem precisa tomar uma decisão.
+Sou estudante apaixonado por **Análise de Dados**, em busca da minha primeira oportunidade de estágio para aplicar e expandir meus conhecimentos em um ambiente profissional. Gosto de transformar dados complexos em histórias claras, que ajudam a entender problemas e tomar decisões melhores.
 
-Tenho experiência prática com Python, SQL, Pandas, Streamlit, Plotly e FastAPI. Também estou sempre estudando novas ferramentas e formas de melhorar meus projetos.
+Tenho experiência prática com **Python, SQL, Pandas, Streamlit, Plotly e FastAPI**. Também estou sempre estudando novas ferramentas e maneiras de melhorar meus projetos, desde a organização dos dados até a apresentação dos resultados.
 
-## Stack tecnológica
+## 🛠️ Stack Tecnológica
 
-| Área | Tecnologias |
-|---|---|
-| Linguagem | Python, SQL |
-| Análise e manipulação | Pandas, NumPy |
-| Visualização | Matplotlib, Seaborn, Plotly |
-| Apps e dashboards | Streamlit, FastAPI |
-| Banco de dados e ferramentas | SQLite, PostgreSQL, Jupyter, Git |
+<table align="center">
+  <tr>
+    <td align="center">
+      <b>Linguagem</b><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=white"/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Análise & Manipulação</b><br/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Visualização</b><br/>
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Apps & Dashboards</b><br/>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Database & Ferramentas</b><br/>
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
-## Projetos em destaque
+---
+
+## 🚀 Projetos em Destaque
+
+<div align="center">
 
 | Projeto | Descrição | Stack |
-|---|---|---|
-| [Banco Analytics](https://github.com/GustavoHCGit/banco-analytics) | Pipeline completo com geração de dados sintéticos, tratamento de qualidade, carga no PostgreSQL e dashboard de transações bancárias. | Python, Pandas, PostgreSQL, SQLAlchemy, Streamlit, Plotly |
-| [Dashboard de Gestão de Inventário](https://github.com/GustavoHCGit/sistema-gestao-inventario-inteligente) | Dashboard interativo para acompanhar produtos, vendas e métricas de desempenho. | Streamlit, SQLite, Plotly |
-| [Web Scraper de Vagas](https://github.com/GustavoHCGit/web-scraper-vagas) | Coleta informações de vagas de emprego e organiza os resultados com tratamento de erros. | Python, BeautifulSoup, Pandas |
-| [API de Gerenciamento de Tarefas](https://github.com/GustavoHCGit/api-gerenciamento-tarefas) | API RESTful para criar, consultar, atualizar e excluir tarefas com autenticação e validação. | FastAPI, Pydantic, SQLite |
-| [Controle Financeiro CLI](https://github.com/GustavoHCGit/controle-financeiro-cli) | Aplicativo de linha de comando para registrar movimentações financeiras e gerar relatórios. | Python, SQLite |
+|---------|-----------|-------|
+| 📊 **[Banco Analytics](https://github.com/GustavoHCGit/banco-analytics)** | Pipeline completo com dados sintéticos, tratamento de qualidade, carga no PostgreSQL e dashboard de transações bancárias. | Python, Pandas, PostgreSQL, Streamlit, Plotly |
+| 📊 **[Dashboard de Gestão de Inventário](https://github.com/GustavoHCGit/sistema-gestao-inventario-inteligente)** | Dashboard interativo com gráficos Plotly, gestão de produtos e vendas em tempo real. | Streamlit, SQLite, Plotly |
+| 🕷️ **[Web Scraper de Vagas](https://github.com/GustavoHCGit/web-scraper-vagas)** | Coleta vagas de emprego em tempo real com tratamento robusto de erros. | Python, BeautifulSoup, Pandas |
+| 🔧 **[API de Gerenciamento de Tarefas](https://github.com/GustavoHCGit/api-gerenciamento-tarefas)** | API RESTful para CRUD de tarefas com autenticação e validação. | FastAPI, Pydantic, SQLite |
+| 💰 **[Controle Financeiro CLI](https://github.com/GustavoHCGit/controle-financeiro-cli)** | Aplicativo CLI para controle financeiro pessoal com relatórios. | Python, SQLite |
 
-## Como trabalho
+</div>
 
-Procuro manter os projetos organizados, documentar as decisões e explicar não apenas o resultado, mas também o caminho até ele. Quando encontro um problema, tento dividi-lo em partes menores, testar as hipóteses e deixar o código fácil de entender.
+---
 
-## Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
@@ -46,8 +82,20 @@ Procuro manter os projetos organizados, documentar as decisões e explicar não 
 
 </div>
 
-## Contato
+---
 
-[LinkedIn](https://www.linkedin.com/in/gustavohneto/) · [E-mail](mailto:guxtaneto7@gmail.com)
+## 📬 Contato
+<div align="center">
 
-Estou aberto a novas conexões e oportunidades de estágio em Análise de Dados.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gustavohneto-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavohneto/)
+[![Gmail](https://img.shields.io/badge/Gmail-guxtaneto7@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=guxtaneto7@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+*Aberto a novas conexões e oportunidades de estágio em Análise de Dados!* 🚀
+
+</div>
