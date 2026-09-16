@@ -1,67 +1,77 @@
 <div align="center">
 
-# 📊 Gustavo Henrique Constante Neto
+# Gustavo Henrique Constante Neto
 
-### 🎯 Estudante de Análise de Dados · Em busca do primeiro estágio
+### Estudante de Análise de Dados · Python · SQL
 
-**Transformo dados em análises claras, visualizações úteis e decisões melhores.**
+Transformo dados em análises claras, visualizações úteis e soluções práticas.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gustavohneto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavohneto/)
-[![E-mail](https://img.shields.io/badge/E--mail-guxtaneto7%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guxtaneto7@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavohneto/)
+[![E-mail](https://img.shields.io/badge/E--MAIL-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guxtaneto7@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GustavoHCGit)
 
 </div>
 
 ---
 
-## 👋 Sobre mim
+## Sobre mim
 
-Sou estudante de **Análise de Dados** e estou em busca da minha primeira oportunidade de estágio para transformar conhecimento técnico em impacto real. Gosto de investigar problemas, organizar dados e comunicar descobertas de forma objetiva, com foco em apoiar decisões melhores.
+Sou estudante de **Análise de Dados** e estou em busca da minha primeira oportunidade de estágio. Gosto de investigar problemas, organizar informações e transformar dados em insights que apoiem decisões melhores.
 
-Minha base prática inclui **Python, SQL, Pandas, Streamlit, Plotly e FastAPI**. Tenho interesse especial em análise exploratória, automação de rotinas, construção de dashboards e desenvolvimento de soluções que aproximam dados das pessoas.
+Atualmente, desenvolvo projetos com foco em **Python, SQL, análise exploratória, automação, dashboards e APIs**. Tenho interesse em aprender continuamente e construir soluções simples, úteis e bem estruturadas.
 
-## 🧰 Ferramentas que utilizo
+## Tecnologias e ferramentas
 
-| Área | Tecnologias |
-|---|---|
-| **Linguagem e dados** | Python · SQL · Pandas · NumPy |
-| **Visualização** | Plotly · Matplotlib · Seaborn |
-| **Apps e APIs** | Streamlit · FastAPI |
-| **Banco e produtividade** | SQLite · PostgreSQL · Jupyter · Git |
+### Dados e programação
 
----
+[![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white)]()
+[![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)]()
+[![Pandas](https://img.shields.io/badge/PANDAS-000000?style=for-the-badge&logo=pandas&logoColor=white)]()
+[![NumPy](https://img.shields.io/badge/NUMPY-000000?style=for-the-badge&logo=numpy&logoColor=white)]()
 
-## 🚀 Projetos em destaque
+### Visualização e aplicações
 
-| Projeto | O que estou construindo |
-|---|---|
-| [**API de Gerenciamento de Tarefas**](https://github.com/GustavoHCGit/api-gerenciamento-tarefas) | API RESTful para criar, consultar, atualizar e excluir tarefas, com validação e organização de regras de negócio. |
-| [**Sistema de Gestão de Inventário Inteligente**](https://github.com/GustavoHCGit/sistema-gestao-inventario-inteligente) | Dashboard para acompanhar produtos, vendas e indicadores de inventário de forma visual e prática. |
-| [**Web Scraper de Vagas**](https://github.com/GustavoHCGit/web-scraper-vagas) | Coletor de oportunidades com tratamento de erros e estruturação dos dados para facilitar a análise. |
-| [**Controle Financeiro CLI**](https://github.com/GustavoHCGit/controle-financeiro-cli) | Aplicação de linha de comando para registar receitas, despesas e relatórios de controlo financeiro pessoal. |
+[![Plotly](https://img.shields.io/badge/PLOTLY-000000?style=for-the-badge&logo=plotly&logoColor=white)]()
+[![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-000000?style=for-the-badge&logo=python&logoColor=white)]()
+[![Streamlit](https://img.shields.io/badge/STREAMLIT-000000?style=for-the-badge&logo=streamlit&logoColor=white)]()
+[![FastAPI](https://img.shields.io/badge/FASTAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white)]()
 
----
+### Banco de dados e ferramentas
 
-## 📈 GitHub em números
+[![SQLite](https://img.shields.io/badge/SQLITE-000000?style=for-the-badge&logo=sqlite&logoColor=white)]()
+[![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)]()
+[![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white)]()
+[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)]()
+[![Jupyter](https://img.shields.io/badge/JUPYTER-000000?style=for-the-badge&logo=jupyter&logoColor=white)]()
+
+## Projetos em destaque
+
+| Projeto | Descrição |
+| --- | --- |
+| [**Sistema de Gestão de Inventário Inteligente**](https://github.com/GustavoHCGit/sistema-gestao-inventario-inteligente) | Dashboard com Streamlit e SQLite para acompanhar produtos, vendas e indicadores de inventário. |
+| [**API de Gerenciamento de Tarefas**](https://github.com/GustavoHCGit/api-gerenciamento-tarefas) | API RESTful desenvolvida com FastAPI para criar, consultar, atualizar e excluir tarefas. |
+| [**Web Scraper de Vagas**](https://github.com/GustavoHCGit/web-scraper-vagas) | Automação em Python para extração e organização de informações de oportunidades. |
+| [**Projeto Financeiro**](https://github.com/GustavoHCGit/projeto-financeiro) | Backend com FastAPI para controlar entradas, saídas e saldo financeiro. |
+| [**Sinnoh PokeScope Analytics**](https://github.com/GustavoHCGit/Sinnoh_PokeScopeAnalytics) | Projeto de análise desenvolvido com TypeScript. |
+
+## GitHub em números
 
 <div align="center">
 
 ![GitHub Stats](./github-stats.svg)
-
 ![Top Languages](./top-languages.svg)
 
 </div>
 
----
+## Vamos conversar?
 
-## 📬 Vamos conversar?
-
-Estou aberto a **novas conexões, projetos e oportunidades de estágio em Análise de Dados**.
+Estou aberto a **conexões, projetos e oportunidades de estágio em Análise de Dados**.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Conecte--se_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavohneto/)
-[![Enviar e-mail](https://img.shields.io/badge/Enviar_um_e--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guxtaneto7@gmail.com)
+[![Conecte-se no LinkedIn](https://img.shields.io/badge/CONECTE--SE_NO_LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavohneto/)
+[![Enviar e-mail](https://img.shields.io/badge/ENVIAR_E--MAIL-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guxtaneto7@gmail.com)
+
+> Dados bem analisados contam histórias melhores.
 
 </div>
-
-> **Dados bem analisados contam histórias melhores.**
