@@ -2,7 +2,7 @@
 
 # Gustavo Henrique Constante Neto
 
-### Estudante de Análise de Dados · Python · SQL
+### Estudante de Programação · Python · SQL · Java
 
 Transformo dados em análises claras, visualizações úteis e soluções práticas.
 
