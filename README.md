@@ -54,7 +54,7 @@ Atualmente, desenvolvo projetos com foco em **Python, SQL, análise exploratóri
 | [**API de Gerenciamento de Tarefas**](https://github.com/GustavoHCGit/api-gerenciamento-tarefas) | API RESTful desenvolvida com FastAPI para criar, consultar, atualizar e excluir tarefas. |
 | [**Web Scraper de Vagas**](https://github.com/GustavoHCGit/web-scraper-vagas) | Automação em Python para extração e organização de informações de oportunidades. |
 | [**Projeto Financeiro**](https://github.com/GustavoHCGit/projeto-financeiro) | Backend com FastAPI para controlar entradas, saídas e saldo financeiro. |
-| [**Sinnoh PokeScope Analytics**](https://github.com/GustavoHCGit/Sinnoh_PokeScopeAnalytics) | Projeto de análise desenvolvido com TypeScript. |
+| [**Pix Sentinel**](https://github.com/GustavoHCGit/pix-sentinel ) | Motor educacional de análise de risco para transações Pix, com regras explicáveis e API em Kotlin e Spring Boot. |
 
 ## GitHub em números
 
