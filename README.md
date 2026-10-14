@@ -10,7 +10,6 @@ Transformo dados em análises claras, visualizações úteis e soluções práti
 [![Gmail](https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=guxtaneto7@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GustavoHCGit)
 
-**E-mail:** [guxtaneto7@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=guxtaneto7@gmail.com)
 
 </div>
 
