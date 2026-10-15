@@ -4,7 +4,7 @@
 
 ### Estudante de Programação · Python · SQL · Java
 
-Transformo dados em análises claras, visualizações úteis e soluções práticas.
+Estudo programação e desenvolvo projetos para colocar meus conhecimentos em prática, resolver problemas e construir soluções úteis.
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavohneto/)
 [![Gmail](https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=guxtaneto7@gmail.com)
@@ -17,9 +17,10 @@ Transformo dados em análises claras, visualizações úteis e soluções práti
 
 ## Sobre mim
 
-Sou estudante de **Análise de Dados** e estou em busca da minha primeira oportunidade de estágio. Gosto de investigar problemas, organizar informações e transformar dados em insights que apoiem decisões melhores.
+Tenho experiência prática com projetos acadêmicos e pessoais utilizando Python, Java, C#, SQL e Git, explorando diferentes áreas do desenvolvimento de software, como APIs, bancos de dados, automação e análise de dados.
 
-Atualmente, desenvolvo projetos com foco em **Python, SQL, análise exploratória, automação, dashboards e APIs**. Tenho interesse em aprender continuamente e construir soluções simples, úteis e bem estruturadas.
+
+Busco evoluir constantemente por meio de projetos que me desafiem a resolver problemas, aplicar conceitos de programação e desenvolver soluções úteis.
 
 ## Tecnologias e ferramentas
 
