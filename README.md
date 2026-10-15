@@ -72,6 +72,4 @@ Estou aberto a **conexões, projetos e oportunidades de estágio em Análise de 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavohneto/)
 [![Gmail](https://img.shields.io/badge/ABRIR_GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=guxtaneto7@gmail.com)
 
-> Dados bem analisados contam histórias melhores.
-
 </div>
