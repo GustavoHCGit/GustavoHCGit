@@ -4,12 +4,11 @@
 
 ### Estudante de Programação · Python · SQL · Java
 
-Estudo programação e desenvolvo projetos para colocar meus conhecimentos em prática, resolver problemas e construir soluções úteis.
+Estudo programação e uso projetos pessoais e acadêmicos para praticar desenvolvimento de software, APIs, bancos de dados e análise de dados.
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavohneto/)
 [![Gmail](https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=guxtaneto7@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GustavoHCGit)
-
 
 </div>
 
@@ -17,10 +16,9 @@ Estudo programação e desenvolvo projetos para colocar meus conhecimentos em pr
 
 ## Sobre mim
 
-Tenho experiência prática com projetos acadêmicos e pessoais utilizando Python, Java, C#, SQL e Git, explorando diferentes áreas do desenvolvimento de software, como APIs, bancos de dados, automação e análise de dados.
+Tenho experiência em projetos acadêmicos e pessoais com Python, Java, C#, SQL e Git. No momento, estou concentrado em melhorar minha base de programação e criar aplicações que resolvam problemas práticos.
 
-
-Busco evoluir constantemente por meio de projetos que me desafiem a resolver problemas, aplicar conceitos de programação e desenvolver soluções úteis.
+Tenho interesse em oportunidades de estágio nas áreas de desenvolvimento de software e análise de dados.
 
 ## Tecnologias e ferramentas
 
@@ -44,32 +42,15 @@ Busco evoluir constantemente por meio de projetos que me desafiem a resolver pro
 [![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)]()
 [![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white)]()
 [![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)]()
-[![Jupyter](https://img.shields.io/badge/JUPYTER-000000?style=for-the-badge&logo=jupyter&logoColor=white)]()
 
-## Projetos em destaque
+## Projetos
 
-| Projeto | Descrição |
-| --- | --- |
-| [**Sistema de Gestão de Inventário Inteligente**](https://github.com/GustavoHCGit/sistema-gestao-inventario-inteligente) | Dashboard com Streamlit e SQLite para acompanhar produtos, vendas e indicadores de inventário. |
-| [**API de Gerenciamento de Tarefas**](https://github.com/GustavoHCGit/api-gerenciamento-tarefas) | API RESTful desenvolvida com FastAPI para criar, consultar, atualizar e excluir tarefas. |
-| [**Web Scraper de Vagas**](https://github.com/GustavoHCGit/web-scraper-vagas) | Automação em Python para extração e organização de informações de oportunidades. |
-| [**Projeto Financeiro**](https://github.com/GustavoHCGit/projeto-financeiro) | Backend com FastAPI para controlar entradas, saídas e saldo financeiro. |
-| [**Pix Sentinel**](https://github.com/GustavoHCGit/pix-sentinel ) | Motor educacional de análise de risco para transações Pix, com regras explicáveis e API em Kotlin e Spring Boot. |
+- [**API de Gerenciamento de Tarefas**](https://github.com/GustavoHCGit/api-gerenciamento-tarefas) — API REST desenvolvida com FastAPI para criar, consultar, atualizar e excluir tarefas.
+- [**Sistema de Gestão de Inventário Inteligente**](https://github.com/GustavoHCGit/sistema-gestao-inventario-inteligente) — aplicação com Streamlit e SQLite para acompanhar produtos, vendas e indicadores de inventário.
+- [**Web Scraper de Vagas**](https://github.com/GustavoHCGit/web-scraper-vagas) — script em Python para extrair e organizar informações de oportunidades.
+- [**Controle Financeiro CLI**](https://github.com/GustavoHCGit/controle-financeiro-cli) — aplicativo de linha de comando para registrar entradas, saídas e saldo financeiro.
+- [**Pix Sentinel**](https://github.com/GustavoHCGit/pix-sentinel) — projeto em Kotlin e Spring Boot para análise de risco em transações Pix com regras explicáveis.
 
-## GitHub em números
+## Contato
 
-<div align="center">
-
-![GitHub Stats](./github-stats.svg)
-![Top Languages](./top-languages.svg)
-
-</div>
-
-## Vamos conversar?
-
-Estou aberto a **conexões, projetos e oportunidades de estágio em Análise de Dados**.
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavohneto/)
-[![Gmail](https://img.shields.io/badge/ABRIR_GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=guxtaneto7@gmail.com)
-
-</div>
+Estou aberto a conversar sobre projetos, aprendizado e oportunidades de estágio em desenvolvimento de software e análise de dados.
